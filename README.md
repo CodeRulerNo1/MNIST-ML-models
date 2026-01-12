@@ -1,5 +1,7 @@
 # Handwritten Digit Recognition - Virtualyyst Assignment
 
+[Flowchart](flowchart.pdf)
+
 ## Overview
 This project is focused on developing a machine learning pipeline to classify grayscale images of handwritten digits (0-9) from the MNIST dataset. The project implements and compares three classical machine learning models—K-Nearest Neighbors (KNN), Support Vector Machine (SVM), and Decision Tree—implemented from scratch and using scikit-learn.
 
@@ -59,6 +61,7 @@ The notebook `main.ipynb` follows these steps:
 - **Future Improvements:**
     - Using **Convolutional Neural Networks (CNNs)** would significantly improve feature extraction.
     - Applying **Dimensionality Reduction (PCA)** can reduce computation costs without sacrificing much accuracy.
+
 
 ## Usage
 To replicate the results, open the `main.ipynb` notebook in Jupyter and run all cells sequentially.
